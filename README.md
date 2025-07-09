@@ -1,1 +1,2 @@
-# simple-church
+# SimpleChurch
+This project is a voice-controlled music search assistant designed to help churches quickly find worship songs based on spoken lyrics. It records short audio clips, transcribes them into text using speech recognition, and searches the Genius API for matching songs. The results are intelligently filtered to prioritize trusted worship artists and gospel-related content, ensuring relevant and appropriate song suggestions for church settings. This tool streamlines worship planning and enhances congregational engagement by making song discovery fast, accurate, and tailored to the church community.
